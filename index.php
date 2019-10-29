@@ -7,7 +7,6 @@
     <title>Meny - A three dimensional and space efficient menu concept</title>
 
     <meta name="description" content="Building management">
-    <meta name="author" content="Doumbia">
 
     <meta name="viewport" content="width=800, user-scalable=no">
 
